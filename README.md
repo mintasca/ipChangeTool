@@ -1,6 +1,6 @@
 # ipChangeTool
 change IP and MAC of ECB or ECU
-#Usage
+##Usage
 1. Download the tool
 ```
 $ git clone https://github.com/innfos/ipChangeTool.git
